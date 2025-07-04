@@ -66,7 +66,7 @@ figcaption {
 }
 
 .card-title a:hover,
-.card-title a:active {
+.card-title a:focus {
   color: var(--primary);
   cursor: pointer;
 }
